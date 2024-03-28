@@ -15,17 +15,9 @@ Gourmet_Atlas est une application qui permet aux utilisateurs d'explorer la cuis
 1. Clonez le dépôt : `git clone https://github.com/Boushow/Gourmet_Atlas-Project.git`
 2. Accédez au répertoire du projet : `cd Gourmet_Atlas-Project`
 3. Installez les dépendances : `npm install`
-4. Lancez le serveur : `npm start`
+4. Lancez le serveur : `npm run serve`
 5. Ouvrez votre navigateur et accédez à `http://localhost:3000`
 
 ## Contribution
 
-Nous accueillons les contributions de tous. Si vous souhaitez contribuer à ce projet, veuillez consulter notre guide de contribution.
-
-## Licence
-
-Ce projet est sous licence MIT. Pour plus d'informations, veuillez consulter le fichier `LICENSE`.
-
-## Contact
-
-Si vous avez des questions ou des commentaires, n'hésitez pas à nous contacter à email.
+Mohamed BEN MABROUK, Robert Badette, Hudayfa Koujdal
